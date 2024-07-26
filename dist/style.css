@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: rgb(84, 84, 212);
+}
+
+p {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
